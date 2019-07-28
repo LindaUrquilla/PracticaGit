@@ -1,2 +1,4 @@
 Practica sobre Git y GitHub
 Conocimientos necesarios para ser desarrollador profesional
+
+Siempre recordar los comandos add, commit, agregar mensajes a los cambios que se vayan a subir
