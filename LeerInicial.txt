@@ -1,2 +1,2 @@
 Practica sobre Git y GitHub
-Conocimientos necesarios para ser desarrollador
+Conocimientos necesarios para ser desarrollador profesional
